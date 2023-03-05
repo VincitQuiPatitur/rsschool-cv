@@ -57,6 +57,11 @@ function getScore(n) {
         return score;
 }
 ```
+
+#### My codewars statistics:
+
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Arishandel/badges/large)](https://www.codewars.com/users/Arishandel)
+
 ---
 
 ### Work experience
