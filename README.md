@@ -1,1 +1,1 @@
-[https://vincitquipatitur.github.io/rsschool-cv/](https://vincitquipatitur.github.io/rsschool-cv/)
+https://VincitQuiPatitur.github.io/rsschool-cv/
