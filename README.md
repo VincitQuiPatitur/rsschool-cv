@@ -1,1 +1,1 @@
-# Репозиторий курса «JavaScript/Front-end» от Rolling Scopes School
+[https://vincitquipatitur.github.io/rsschool-cv/](https://vincitquipatitur.github.io/rsschool-cv/)
