@@ -88,6 +88,24 @@ function getScore(n) {
 
 ---
 
+### Projects
+
+#### Yandex Praktikum projects
+
+**'Russian travel'**
+
+**github:** [link](https://github.com/VincitQuiPatitur/russian-travel)
+
+**website:** [link](https://vincitquipatitur.github.io/russian-travel/)
+
+**'Mesto'**
+
+**github:** [link](https://github.com/VincitQuiPatitur/mesto)
+
+**website:** [link](https://vincitquipatitur.github.io/mesto/)
+
+---
+
 ### Education
 
 **Graduation year:** 2022
