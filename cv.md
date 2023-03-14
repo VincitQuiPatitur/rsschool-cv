@@ -1,5 +1,9 @@
 # Arina Kostrova
 
+<div>
+  <img src='https://avatars.githubusercontent.com/u/74054656?v=4' height='200px' width='200px' alt='Arina Kostrova'>
+</div>
+
 ## Junior Frontend Developer
 
 ### Contact information
